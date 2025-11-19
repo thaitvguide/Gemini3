@@ -1,0 +1,5 @@
+{
+  "name": "Shadcn UI Showcase",
+  "description": "A high-fidelity UI showcase application demonstrating advanced theming (Dark/Light + Color Palettes) using Tailwind CSS variables, imitating the popular Shadcn/UI library patterns without external CSS files.",
+  "requestFramePermissions": []
+}
